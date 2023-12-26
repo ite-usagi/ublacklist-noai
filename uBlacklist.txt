@@ -1,6 +1,7 @@
 *://*.123rf.com/*
 *://*.ai-hentai.net/*
 *://*.aiart-navi.com/*
+*://*.aiartes.com/*
 *://*.aiartdigest.com/*
 *://*.aiartshop.com/*
 *://*.aiartstock.com/*
@@ -23,6 +24,7 @@
 *://*.artguru.ai/*
 *://*.arthub.ai/*
 *://*.artimator.io/*
+*://*.artvy.ai/*
 *://*.artzone.ai/*
 *://*.blackink.ai/*
 *://*.bluewillow.ai/*
