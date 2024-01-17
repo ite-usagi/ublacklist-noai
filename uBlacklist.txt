@@ -131,6 +131,7 @@
 *://*.picassoia.com/*
 *://*.picsart.com/*
 *://*.picso.ai/*
+*://*.pictab.art/*
 *://*.picwish.com/*
 *://*.pixai.art/*
 *://*.play.ht/*
