@@ -21,6 +21,7 @@
 *://*.aiporn.net/*
 *://*.aipornhub.net/*
 *://*.aiseo.ai/*
+*://*.aisozai.com/*
 *://*.aistyle.art/*
 *://*.aitubo.ai/*
 *://*.aituts.com/*
