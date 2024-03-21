@@ -28,6 +28,7 @@
 *://*.aiva.ai/*
 *://*.aivoicestudio.ai/*
 *://*.aiweirdness.com/*
+*://*.allthedifferences.com/*
 *://*.anakin.ai/*
 *://*.artguru.ai/*
 *://*.arthub.ai/*
