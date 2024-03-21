@@ -212,6 +212,7 @@
 *://*.theresanaiforthat.com/*
 *://*.toolsadvisor.org/*
 *://*.topmediai.com/*
+*://*.trustingeeks.com/*
 *://*.trynectar.ai/*
 *://*.typecast.ai/*
 *://*.uberduck.ai/*
